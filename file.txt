@@ -1,2 +1,4 @@
 przykladowy plik
 koniec
+
+zmiana 123
